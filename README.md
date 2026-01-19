@@ -13,6 +13,8 @@
 
 </p>
 
+<h6> <p align="center"> but ANY ship is cool with me!! </p></h6>
+
 <p align="center"> <img src="https://i.postimg.cc/m26rcfpn/image.png" alt="fuking gay" width="200" /> </p>
 <p align="center">
 <img src="https://64.media.tumblr.com/70b68b0452865f2f1da417c2fea08bb8/6f1e5bdf78d09eae-87/s250x400/4989a6cd4042c511af03a76a300590f03c1bb923.gifv" width="140"/>
