@@ -31,6 +31,8 @@
 <a href="https://swords-and-chicken.straw.page/"> Strawpage!! </a>
 .
 <a href="https://guns.lol/weirdnessfalls"> Guns!! </a>
+.
+<a href="https://weirdnessfalls.atabook.org/"> ATA book!! </a>
 </p>
 <!--
 **WeirdnessFalls/WEIRDNESSFALLS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
