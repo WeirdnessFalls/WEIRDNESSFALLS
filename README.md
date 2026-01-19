@@ -25,7 +25,10 @@
 
 <p align="center">
 <a href="https://en.pronouns.page/@weirdnessfalls"> Pronouns!! </a>
+.
 <a href="https://swords-and-chicken.straw.page/"> Strawpage!! </a>
+.
+<a href="https://guns.lol/weirdnessfalls"> Guns!! </a>
 </p>
 <!--
 **WeirdnessFalls/WEIRDNESSFALLS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
