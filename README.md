@@ -5,7 +5,7 @@
 
 <p align="center"> Creator of: </p>
 <p align="center"> Eddsworld!Reform </p>
-<p align="center"> The F0rsak3n 1xs (AU) </p>
+<p align="center"> Befallen Robloxia </p>
 <p align="center"> <a href="https://telakinletsky.itch.io/sprunki-eddsworld-mod"> The Eddsworld Sprunki Mod </a> </p>
 
 <p align="center">
