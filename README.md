@@ -1,16 +1,56 @@
-
-<h1> <p align="center"> YELLO EVERYBLOX!! </p> </h1>
-<h2> <p align="center"> I am Telakin! (or Cither.. or Shedletsky.. DOESN'T MATTER!!) </p>
-<p align="center"> SHEDLETSKY FICTIONKIN!! </p> </h2>
-<h3> <p align="center"> last updated: 6/09/2026 </p></h3>
-
-<p align="center"> Creator of: </p>
-<p align="center"> Eddsworld!Reform </p>
-<p align="center"> Befallen Robloxia </p>
-<p align="center"> <a href="https://telakinletsky.itch.io/sprunki-eddsworld-mod"> The Eddsworld Sprunki Mod </a> </p>
+<div id="user-content-toc">
+  <ul align="center">
+    <summary>
+      <h1> YELLO EVERYBLOX!! </h1> <br>
+      <h3> <p align="center"> last updated: 6/09/2026 </p></h3>
+    </summary>
+  </ul>
+</div>
 
 <p align="center">
-  <img src="https://files.catbox.moe/qbla9l.gif" alt="hi" width="300" />
+  <img src="https://i.postimg.cc/8cg1GvdF/image-2024-05-23-234559428.png" alt="hi" width="500" />
+</p>
+
+<div id="toc">
+  <ul align="center">
+    <summary>
+      <h2> <p align="center"> I am Telakin! (or Cither.. or Shedletsky.. DOESN'T MATTER!!) </p>
+      <p align="center"> SHEDLETSKY FICTIONKIN!! </p> </h2>
+      <h3> <p align="center"> also a suspecting system (more into into the pronouns page below) </p> </h3>
+    </summary>
+  </ul>
+</div>
+
+<p align="center">
+  <img src="https://i.postimg.cc/V6P72ss9/image-2024-05-24-133653261.png" alt="hi" width="500" />
+</p>
+
+<div id="toc">
+  <ul align="center">
+    <summary>
+      <h2> <p align="center"> JUST A HEADS UP! </p> </h2>
+      <h3><p align="center"> my wifi tends to shut off around 10pm my time, so if we were talking and I ranomly vanish, this is why! </p> </h3>
+    </summary>
+  </ul>
+</div>
+
+<p align="center">
+  <img src="https://i.postimg.cc/XJXY16fs/image-2024-05-24-003112596.png" alt="hi" width="500" />
+</p>
+
+<div id="toc">
+  <ul align="center">
+    <summary>
+      <h2> Creator of: </h2><br>
+      <h4><p align="center"> Eddsworld!Reform </p>
+      <p align="center"> Befallen Robloxia </p>
+      <p align="center"> <a href="https://telakinletsky.itch.io/sprunki-eddsworld-mod"> The Eddsworld Sprunki Mod </a> </p></h4>
+    </summary>
+  </ul>
+</div>
+
+<p align="center">
+  <img src="https://files.catbox.moe/qbla9l.gif" alt="hi" width="400" />
 
 </p>
 
