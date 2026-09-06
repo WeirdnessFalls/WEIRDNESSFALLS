@@ -1,8 +1,12 @@
+<p align="center">
+  <img src="https://i.postimg.cc/P5kPLBq3/image-2024-05-24-133734906.png" alt="hi" width="500" />
+</p>
+
 <div id="user-content-toc">
   <ul align="center">
     <summary>
-      <h1> YELLO EVERYBLOX!! </h1> <br>
-      <h3> <p align="center"> last updated: 6/09/2026 </p></h3>
+      <h2> YELLO EVERYBLOX!! </h2> <br>
+      <h2> <p align="center"> last updated: 6/09/2026 </p></h2>
     </summary>
   </ul>
 </div>
@@ -14,9 +18,9 @@
 <div id="toc">
   <ul align="center">
     <summary>
-      <h2> <p align="center"> I am Telakin! (or Cither.. or Shedletsky.. DOESN'T MATTER!!) </p>
-      <p align="center"> SHEDLETSKY FICTIONKIN!! </p> </h2>
-      <h3> <p align="center"> also a suspecting system (more into into the pronouns page below) </p> </h3>
+      <h3> <p align="center"> I am Telakin! (or Cither.. or Shedletsky.. DOESN'T MATTER!!) </p>
+      <p align="center"> SHEDLETSKY FICTIONKIN!! </p>
+      <p align="center"> also a suspecting system (more into into the pronouns page below) </p> </h3>
     </summary>
   </ul>
 </div>
@@ -29,10 +33,13 @@
   <ul align="center">
     <summary>
       <h2> <p align="center"> JUST A HEADS UP! </p> </h2>
-      <h3><p align="center"> my wifi tends to shut off around 10pm my time, so if we were talking and I ranomly vanish, this is why! </p> </h3>
+      <p align="center"> my wifi tends to shut off around 10pm my time, so if we were talking and I ranomly vanish, this is why! </p>
     </summary>
   </ul>
 </div>
+
+<br>
+<br>
 
 <p align="center">
   <img src="https://i.postimg.cc/XJXY16fs/image-2024-05-24-003112596.png" alt="hi" width="500" />
@@ -41,13 +48,16 @@
 <div id="toc">
   <ul align="center">
     <summary>
-      <h2> Creator of: </h2><br>
-      <h4><p align="center"> Eddsworld!Reform </p>
+      <h2> Creator of: </h2>
+      <p align="center"> Eddsworld!Reform </p>
       <p align="center"> Befallen Robloxia </p>
-      <p align="center"> <a href="https://telakinletsky.itch.io/sprunki-eddsworld-mod"> The Eddsworld Sprunki Mod </a> </p></h4>
+      <p align="center"> <a href="https://telakinletsky.itch.io/sprunki-eddsworld-mod"> The Eddsworld Sprunki Mod </a> </p>
     </summary>
   </ul>
 </div>
+
+<br>
+<br>
 
 <p align="center">
   <img src="https://files.catbox.moe/qbla9l.gif" alt="hi" width="400" />
@@ -74,4 +84,8 @@
 <a href="https://guns.lol/weirdnessfalls"> Guns!! </a>
 .
 <a href="https://weirdnessfalls.atabook.org/"> ATA book!! </a>
+</p>
+
+<p align="center">
+  <img src="https://i.postimg.cc/BbKnbgff/image-2024-05-24-133746247.png" alt="hi" width="500" />
 </p>
