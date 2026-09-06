@@ -5,8 +5,8 @@
 <div id="user-content-toc">
   <ul align="center">
     <summary>
-      <h2> YELLO EVERYBLOX!! </h2> <br>
-      <h2> <p align="center"> last updated: 6/09/2026 </p></h2>
+      <h2> <b><i>YELLO EVERYBLOX!!</i></b> </h2> <br>
+      <p align="center" style="color: gray;"> last updated: 6/09/2026 </p>
     </summary>
   </ul>
 </div>
@@ -18,9 +18,9 @@
 <div id="toc">
   <ul align="center">
     <summary>
-      <h3> <p align="center"> I am Telakin! (or Cither.. or Shedletsky.. DOESN'T MATTER!!) </p>
+      <h3> <p align="center"> <b>I am Telakin! (or Cither.. or Shedletsky.. DOESN'T MATTER!!)</b> </p>
       <p align="center"> SHEDLETSKY FICTIONKIN!! </p>
-      <p align="center"> also a suspecting system (more into into the pronouns page below) </p> </h3>
+      <p align="center" style="color: gray;"> also a suspecting system <i>(more into into the pronouns page below)</i> </p> </h3>
     </summary>
   </ul>
 </div>
@@ -85,6 +85,8 @@
 .
 <a href="https://weirdnessfalls.atabook.org/"> ATA book!! </a>
 </p>
+
+<h6> <p align="center" style="color: gray;"> <i>as u can tell I have no idea how HTML works......</i> </p> </h6>
 
 <p align="center">
   <img src="https://i.postimg.cc/BbKnbgff/image-2024-05-24-133746247.png" alt="hi" width="500" />
