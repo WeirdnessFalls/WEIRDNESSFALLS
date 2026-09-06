@@ -45,13 +45,26 @@
   <img src="https://i.postimg.cc/XJXY16fs/image-2024-05-24-003112596.png" alt="hi" width="500" />
 </p>
 
+<p align="center">
+  <img src="https://i.postimg.cc/26X5LKdw/pony-town-Shedletsky-Kin-AU-CH-dance-4-padded-ponyplush-4x-ezgif-com-remove-background-(2).gif" alt="my pony" />
+  <img src="https://i.postimg.cc/BvjZ9gfF/pony-town-watching-yt-boop-whisper-dance-4-padded-4x.gif" alt="Twotime's pony" /> <br>
+</p>
+<div id="toc">
+  <ul align="center">
+    <summary>
+      <h6> me (Shedletsky) and Twotime's ponies!! <br>
+      there's more but it's too many to put here </h6>
+    </summary>
+  </ul>
+</div>
+
 <div id="toc">
   <ul align="center">
     <summary>
       <h2> Creator of: </h2>
-      <p align="center"> Eddsworld!Reform </p>
-      <p align="center"> Befallen Robloxia </p>
-      <p align="center"> <a href="https://telakinletsky.itch.io/sprunki-eddsworld-mod"> The Eddsworld Sprunki Mod </a> </p>
+      <p align="center"> Eddsworld!Reform <br>
+      Befallen Robloxia <br>
+      <a href="https://telakinletsky.itch.io/sprunki-eddsworld-mod"> The Eddsworld Sprunki Mod </a> </p>
     </summary>
   </ul>
 </div>
