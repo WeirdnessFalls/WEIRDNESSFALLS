@@ -2,6 +2,7 @@
 <h1> <p align="center"> YELLO EVERYBLOX!! </p> </h1>
 <h2> <p align="center"> I am Telakin! (or Cither.. or Shedletsky.. DOESN'T MATTER!!) </p>
 <p align="center"> SHEDLETSKY FICTIONKIN!! </p> </h2>
+<h3> <p align="center"> last updated: 6/09/2026 </p></h3>
 
 <p align="center"> Creator of: </p>
 <p align="center"> Eddsworld!Reform </p>
