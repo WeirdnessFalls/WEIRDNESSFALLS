@@ -34,11 +34,3 @@
 .
 <a href="https://weirdnessfalls.atabook.org/"> ATA book!! </a>
 </p>
-
-<p align="center">
-<img src="https://64.media.tumblr.com/b71b52286f9b28deb9f0a79f23b3d852/36bdc904fb13f80f-9a/s1280x1920/4f978c74c6b737e1556ba61ad3763ce946f79f11.pnj" width="500"/>
-</p>
-
-<p align="center">
-<a href="https://artfight.net/~Weirdnessfalls"> COME GET ME ON ART FIGHT! </a>
-</p>
