@@ -26,7 +26,7 @@
 </p>
 
 <p align="center">
-<a href="[https://pronouns.cc/@weirdnessfalls]"> Pronouns!! </a>
+<a href="https://pronouns.cc/@weirdnessfalls"> Pronouns!! </a>
 .
 <a href="https://swords-and-chicken.straw.page/"> Strawpage!! </a>
 .
